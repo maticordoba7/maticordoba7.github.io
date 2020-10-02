@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Repository of my portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticordoba7/maticordoba7.github.io.git"
+  },
+  "author": "\"Cordoba,Matias\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maticordoba7/maticordoba7.github.io/issues"
+  },
+  "homepage": "https://github.com/maticordoba7/maticordoba7.github.io#readme",
+  "dependencies": {
+    "bulma": "^0.9.0"
+  }
+}
